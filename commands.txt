@@ -1,0 +1,3 @@
+#download training set
+docker run --rm --net=host --volume /Users/macbookpro/Desktop:/data cvedia-cli -j ecuXUNCMLF8UZIqB1oQTRTxIHXnzZeEh -b 500 -o CSV
+
