@@ -1,4 +1,4 @@
-
+# -*- coding:utf-8 -*-
 import tensorflow as tf
 import tensorflow.contrib.layers as layers
 import tensorflow.contrib.framework as ops
